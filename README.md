@@ -4,8 +4,15 @@
 
 
 
-## Usage
+## Multiplicar Console App
 
+Aplicacion para generar tablas de multiplicar
+
+Ejecutar este comando:
+
+```
+npm install
+```
 
 
 ## Developing
